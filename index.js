@@ -1,3 +1,10 @@
-for (var i=0; i<=10; i++) {
-	console.log("index number is", i)
+let obj = {
+name: "Dama",
+email: "Dama@gmail.com",
 }
+
+let details ={
+ age: 25
+}
+
+console.log(obj,details)
